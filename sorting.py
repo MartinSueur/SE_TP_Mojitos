@@ -10,5 +10,3 @@ sortResult = sortObj.bubbleSort(myList)
 # The SortResult contains the Sorted List
 
 print(sortResult)
-
-print(str(x)+str(y))
